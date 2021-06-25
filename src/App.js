@@ -21,7 +21,7 @@ function App() {
                 <Home></Home>
             </Route>
 
-            <Route path = "/user/:userId">
+            <Route path = "/users/:userId">
                  <FriendsDetails></FriendsDetails>
             </Route>
 
